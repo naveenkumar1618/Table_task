@@ -1,0 +1,25 @@
+
+  .resize-handle {
+    display: inline-block;
+    width: 8px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: ew-resize;
+  }
+  .page{
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .toggle button{
+    padding: 10px;
+    margin: 8px;
+    margin-left: 60px;
+    
+  }
+  .table{
+    margin-left: 100px;
+  }
+  
